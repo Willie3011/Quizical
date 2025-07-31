@@ -179,3 +179,27 @@ button {
 button:hover {
     background-color: var(--dark-orange-color);
 }
+
+/* Responsive design for screens below 500px */
+@media screen and (max-width: 500px) {
+    .screen {
+        padding: 1rem;
+    }
+
+    #start-screen h1{
+        font-size: 2rem;
+    }
+
+    #question-text {
+        font-size: 1.3rem;
+    }
+
+    .answer-btn {
+        padding: 12px;
+    }
+
+    button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+}
