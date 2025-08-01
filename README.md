@@ -1,6 +1,6 @@
 # Quizical - A Simple JavaScript Quiz App
 
-![Quiz Screenshot](https://via.placeholder.com/600x400?text=Quizical+Screenshot) 
+![Website Preview](images/quiz.png) 
 
 ## Table of Contents
 - [Description](#description)
