@@ -9,8 +9,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Description
 
@@ -64,4 +62,15 @@ This project requires no installation or dependencies. To run it locally:
 
 ### Changing Questions
 
-To modify the quiz questions, edit the quizQuestions array in script.js. Each question object should follow this format:
+To modify the quiz questions, edit the ```quizQuestions``` array in ```script.js```. Each question object should follow this format:
+
+```bash
+  {
+  question: "Your question here?",
+  answers: [
+    { text: "Answer 1", correct: false },
+    { text: "Answer 2", correct: true },
+    // more answers...
+  ]
+}
+```
