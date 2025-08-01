@@ -12,6 +12,8 @@
 
 ## Description
 
+- Link: https://willie3011.github.io/Quizical/
+
 Quizical is a simple, interactive quiz application built with vanilla JavaScript, HTML, and CSS. This project was created as part of my learning journey to understand DOM manipulation, event handling, and state management in JavaScript.
 
 The quiz presents users with multiple-choice questions, tracks their score, and provides feedback at the end based on their performance. It features a clean, responsive design with smooth transitions between screens.
